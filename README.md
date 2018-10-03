@@ -1,1 +1,2 @@
-# LNMHacks2.0
+# LNMHacks 2.0-Submission
+
